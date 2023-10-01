@@ -1,5 +1,5 @@
 # sim-npparam
-Numerical analysis for the npparam library
+Numerical studies for the paper "Semiparametric Shape-restricted Estimators for Nonparametric Regression"
 
 | Figure in the paper    |  R file |
 | ---------------------- | ------- |
